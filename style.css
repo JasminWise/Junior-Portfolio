@@ -1,0 +1,12 @@
+.Search{
+    background-color: black;
+    padding-left: 230px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.first-button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(216, 35, 35);
+    border-color: rgb(216, 35, 35);
+}
