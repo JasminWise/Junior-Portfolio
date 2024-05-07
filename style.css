@@ -10,3 +10,42 @@
     background-color: rgb(216, 35, 35);
     border-color: rgb(216, 35, 35);
 }
+
+.photo{
+    padding-left: 280px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.img{
+    border-radius: 50%;
+}
+
+.aboutMe{
+    background-color: black;
+    color: white;
+    padding-left: 230px;
+    padding-bottom: 60px;
+    padding-top: 40px;
+    font-family: georgia;
+}
+
+.underline{
+    padding-left: 110px;
+    font-size: 25px;
+    font-family: georgia;
+}
+
+.contactInfo{
+    background-color: black;
+    color: white;
+    padding-left: 230px;
+    padding-bottom: 60px;
+    font-family: georgia;
+}
+
+.contact{
+    padding-top: 50px;
+    padding-left: 110PX;
+    font-size: 25PX;
+}
