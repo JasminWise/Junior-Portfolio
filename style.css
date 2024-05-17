@@ -1,16 +1,3 @@
-.Search{
-    background-color: black;
-    padding-left: 900px;
-    padding-top: 40px;
-    padding-bottom: 40px;
-}
-
-.first-button{
-    color: rgb(255, 255, 255);
-    background-color: rgb(216, 35, 35);
-    border-color: rgb(216, 35, 35);
-}
-
 .photo{
     padding-left: 900px;
     padding-top: 100px;
@@ -20,7 +7,15 @@
     border-radius: 50%;
 }
 
-.Roses{
-    padding-top: 60px;
+.style{
+    text-decoration: underline;
+}
+
+#carouselExampleIndicators{
+    text-align: center;
+    height: 1000px;
+    width: 1000px;
+    border-radius: 50%
+    
 }
 
