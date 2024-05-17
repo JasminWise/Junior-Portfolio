@@ -1,4 +1,4 @@
-.photo{
+#photo{
     padding-left: 900px;
     padding-top: 100px;
 }
@@ -12,10 +12,16 @@
 }
 
 #carouselExampleIndicators{
-    text-align: center;
     height: 1000px;
     width: 1000px;
-    border-radius: 50%
-    
 }
+
+img{
+    border-radius: 60pc;
+    overflow: hidden;
+  }
+
+
+
+ 
 
