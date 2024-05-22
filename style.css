@@ -20,7 +20,6 @@
 
   .link2{
     color: rgb(241, 164, 20);
-    padding-right: 1200px;
     font-size: 25px;
   }
 
@@ -40,6 +39,17 @@
 
   nav{
     background-color: rgb(252, 242, 252);
+  }
+
+  .link3{
+    color: rgb(241, 164, 20);
+    padding-right: 900px;
+    font-size: 25px;
+    
+  }
+
+  .link3:hover{
+    color: rgb(185, 90, 185);
   }
  
 
