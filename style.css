@@ -12,17 +12,36 @@
     text-decoration: underline;
 }
 
-#carouselExampleIndicators{
-    height: 1000px;
-    width: 1000px;
-    margin: auto;
-}
-
-img{
-    border-radius: 60pc;
-    overflow: hidden;
+  .link1{
+    color: rgb(241, 164, 20);
+    padding-left: 80px;
+    font-size: 25px;
   }
 
+  .link2{
+    color: rgb(241, 164, 20);
+    padding-right: 1200px;
+    font-size: 25px;
+  }
+
+  .link1:hover{
+    color: rgb(185, 90, 185);
+  }
+
+  .link2:hover{
+    color: rgb(185, 90, 185);
+  }
+
+  body{
+    background-image: url("https://i.natgeofe.com/n/57f411cd-dfe6-41a6-8d40-21ba583eccfb/lake-elsinore-california_3x2.jpg");
+    background-repeat: no-repeat;
+   background-size: cover;
+  }
+
+  nav{
+    background-color: rgb(252, 242, 252);
+  }
+ 
 
 
  
