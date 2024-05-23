@@ -51,6 +51,23 @@
   .link3:hover{
     color: rgb(185, 90, 185);
   }
+
+  nav{
+    padding-bottom: 40px;
+  }
+
+  .comp{
+    padding-top: 30px;
+    padding-left: 20px;
+  }
+
+  .box1{
+    background-color: white;
+  }
+
+  p{
+   color: black;
+  }
  
 
 
