@@ -63,10 +63,17 @@
 
   .box1{
     background-color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
   }
 
   p{
    color: black;
+   text-align: center;
+  }
+
+  .box2{
+    background-color: white;
   }
  
 
